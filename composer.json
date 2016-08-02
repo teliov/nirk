@@ -1,5 +1,7 @@
 {
-  "name": "mobnia/nirk",
+  "name": "teliov/nirk",
+
+  "version": "1.0.0",
 
   "description": "A collection of some of the best parts of many frameworks. Streamlining parts that you would normally not need",
 
